@@ -6,7 +6,7 @@
 body {
   overflow: hidden;
 }
-.contaner {
+.container {
   display: flex;
 }
 
